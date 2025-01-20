@@ -8,12 +8,6 @@ Hi, I'm Adrian Calicdan, a passionate software developer. I specialize in creati
 
 You can learn more about me and my work through the projects listed below.
 
-## Projects
-
-- **Project 1**: A brief description of your first project.
-- **Project 2**: A brief description of your second project.
-- **Project 3**: A brief description of your third project.
-
 (Feel free to replace the placeholders with your actual project names and descriptions)
 
 ## Skills
