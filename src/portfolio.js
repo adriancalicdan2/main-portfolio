@@ -23,7 +23,7 @@ const greeting = {
   username: "<Melchor>",
   title: "Hi all, I'm Melchor Adrian Calicdan",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ), // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
